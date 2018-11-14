@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#
 from linepy import *
 from akad.ttypes import *
 from multiprocessing import Pool, Process
@@ -40,58 +40,58 @@ ais.log("Auth Token : " + str(ais.authToken))
 channelToken = ais.getChannelResult()
 ais.log("Channel Token : " + str(channelToken))
 
-ki2 = LINE()
-ki2.log("Auth Token : " + str(ki2.authToken))
+#ki2 = LINE()
+#ki2.log("Auth Token : " + str(ki2.authToken))
 channelToken = ki2.getChannelResult()
 ki2.log("Channel Token : " + str(channelToken))
 
-ki3 = LINE()
-ki3.log("Auth Token : " + str(ki3.authToken))
+#ki3 = LINE()
+#ki3.log("Auth Token : " + str(ki3.authToken))
 channelToken = ki3.getChannelResult()
 ki3.log("Channel Token : " + str(channelToken))
 
-ki4 = LINE()
-ki4.log("Auth Token : " + str(gye.authToken))
+#ki4 = LINE()
+#ki4.log("Auth Token : " + str(gye.authToken))
 channelToken = ki4.getChannelResult()
 ki4.log("Channel Token : " + str(channelToken))
 
-ki5 = LINE()
-ki5.log("Auth Token : " + str(gye.authToken))
+#ki5 = LINE()
+#ki5.log("Auth Token : " + str(gye.authToken))
 channelToken = ki5.getChannelResult()
 ki5.log("Channel Token : " + str(channelToken))
 
-ki6 = LINE()
-ki6.log("Auth Token : " + str(gye.authToken))
+#ki6 = LINE()
+#ki6.log("Auth Token : " + str(gye.authToken))
 channelToken = ki6.getChannelResult()
 ki6.log("Channel Token : " + str(channelToken))
 
-ki7 = LINE()
-ki7.log("Auth Token : " + str(gye.authToken))
+#ki7 = LINE()
+#ki7.log("Auth Token : " + str(gye.authToken))
 channelToken = ki7.getChannelResult()
 ki7.log("Channel Token : " + str(channelToken))
 
-ki8 = LINE()
-ki8.log("Auth Token : " + str(gye.authToken))
+#ki8 = LINE()
+#ki8.log("Auth Token : " + str(gye.authToken))
 channelToken = ki8.getChannelResult()
 ki8.log("Channel Token : " + str(channelToken))
 
-ki9 = LINE()
-ki9.log("Auth Token : " + str(gye.authToken))
+#ki9 = LINE()
+#ki9.log("Auth Token : " + str(gye.authToken))
 channelToken = ki9.getChannelResult()
 ki9.log("Channel Token : " + str(channelToken))
 
-ki10 = LINE()
-ki10.log("Auth Token : " + str(gye.authToken))
+#ki10 = LINE()
+#ki10.log("Auth Token : " + str(gye.authToken))
 channelToken = ki10.getChannelResult()
 ki10.log("Channel Token : " + str(channelToken))
 
-ki11 = LINE()
-ki11.log("Auth Token : " + str(gye.authToken))
+#ki11 = LINE()
+#ki11.log("Auth Token : " + str(gye.authToken))
 channelToken = ki11.getChannelResult()
 ki11.log("Channel Token : " + str(channelToken))
 
-ki12 = LINE()
-ki12.log("Auth Token : " + str(gye.authToken))
+#ki12 = LINE()
+#ki12.log("Auth Token : " + str(gye.authToken))
 channelToken = ki12.getChannelResult()
 ki12.log("Channel Token : " + str(channelToken))
 
