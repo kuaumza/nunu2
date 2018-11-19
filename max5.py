@@ -160,11 +160,11 @@ def sendMessageWithMention(to, mid):
         logError(error)
         
 def helpmessage():
-    helpMessage = "        Help1" + "\n" + \
+    helpMessage = "        คำสั่ง" + "\n" + \
                   "╭════════╬♥" + "\n" + \
-                  "║͜͡☆➣ Help1 " + "\n" + \
-                  "║͜͡☆➣ Help2 " + "\n" + \
-                  "║͜͡☆➣ Help3 " + "\n" + \
+                  "║͜͡☆➣ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 " + "\n" + \
+                  "║͜͡☆➣ คำสั่ง2 " + "\n" + \
+                  "║͜͡☆➣ คำสั่ง3 " + "\n" + \
                   "╰════════╬♥" + "\n" + \
                   "╭════════╬♥" + "\n" + \
                   "║͜͡☆➣ แทค (แทคทั้งห้อง)" + "\n" + \
@@ -180,25 +180,25 @@ def helpmessage():
                   "║͜͡☆➣ รีบอท " + "\n" + \
                   "║͜͡☆➣ พูด (ใส่ข้อคาม)" + "\n" + \
                   "║͜͡☆➣ เขียน (ใส่ข้อคาม)" + "\n" + \
-                  "║͜͡☆➣ เรา " + "\n" + \
+                  "║͜͡☆➣ ผส " + "\n" + \
                   "║͜͡☆➣ รายชื่อคนในห้อง " + "\n" + \
                   "║͜͡☆➣ เชคบอท " + "\n" + \
                   "╰════════╬♥" + "\n" + \
                   "╭════════╬♥" + "\n" + \
-                  "║͜͡☆➣ Maibotline " + "\n" + \
+                  "║͜͡☆➣ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 " + "\n" + \
                   "╰════════╬♥"
     return helpMessage
     
 def helptexttospeech():
-    helpTextToSpeech =   "  Help2 " + "\n" + \
+    helpTextToSpeech =   "  คำสั่ง2 " + "\n" + \
                   "╭════════╬♥" + "\n" + \
-                  "║͜͡☆➣ Pro on/off" + "\n" + \
-                  "║͜͡☆➣ Pt on/off" + "\n" + \
-                  "║͜͡☆➣ Qr on/off" + "\n" + \
-                  "║͜͡☆➣ Iv on/off" + "\n" + \
-                  "║͜͡☆➣ Cc on/off" + "\n" + \
-                  "║͜͡☆➣ Add on/off" + "\n" + \
-                  "║͜͡☆➣ Join on/off" + "\n" + \
+                  "║͜͡☆➣ เปิดหมด/ปิดหมด »ป้องกันทั้งหมด" + "\n" + \
+                  "║͜͡☆➣ Pt on/off »เปิด/ปิดป้องกันเตะ" + "\n" + \
+                  "║͜͡☆➣ Qr on/off »เปิด/ปิดป้องกันเปิดลิ้ง" + "\n" + \
+                  "║͜͡☆➣ Iv on/off »เปิด/ปิดป้องกันเชิญ" + "\n" + \
+                  "║͜͡☆➣ Cc on/off »เปิด/ปิดป้องกันยกเลิกค้างเชิญ" + "\n" + \
+                  "║͜͡☆➣ Add on/off »เปิด/ปิดเพิ่มเพื่อนอัตโนมัติ" + "\n" + \
+                  "║͜͡☆➣ Join on/off »เปิด/ปิดเข้าห้องอัตโนมัติ" + "\n" + \
                   "║͜͡☆➣ Leave on/off" + "\n" + \
                   "║͜͡☆➣ Sticker on/off" + "\n" + \
                   "║͜͡☆➣ Read on/off" + "\n" + \
@@ -224,16 +224,16 @@ def helptexttospeech():
                   "║͜͡☆➣ คนอ่าน" + "\n" + \
                   "╰════════╬♥" + "\n" + \
                   "╭════════╬♥" + "\n" + \
-                  "║͜͡☆➣ Maibotline " + "\n" + \
+                  "║͜͡☆➣ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 " + "\n" + \
                   "╰════════╬♥"
     return helpTextToSpeech
     
 def helptranslate():
-    helpTranslate =    "   Help3 " + "\n" + \
+    helpTranslate =    "   คำสั่ง3 " + "\n" + \
                   "╭════════╬♥" + "\n" + \
-                  "║͜͡☆➣ แบน(ลงคอนแทคที่จะแบน)" + "\n" + \
-                  "║͜͡☆➣ เชคแบน" + "\n" + \
-                  "║͜͡☆➣ ล้างแบน" + "\n" + \
+                  "║͜͡☆➣ ดำ(ลงคอนแทคที่จะลงดำ)" + "\n" + \
+                  "║͜͡☆➣ เชคดำ" + "\n" + \
+                  "║͜͡☆➣ ล้างดำ" + "\n" + \
                   "║͜͡☆➣ รีบอท" + "\n" + \
                   "║͜͡☆➣ บอท " + "\n" + \
                   "║͜͡☆➣ มี " + "\n" + \
@@ -263,7 +263,7 @@ def helptranslate():
                   "║͜͡☆➣ เตะ @" + "\n" + \
                   "╰════════╬♥" + "\n" + \
                   "╭════════╬♥" + "\n" + \
-                  "║͜͡☆➣ Maibotline " + "\n" + \
+                  "║͜͡☆➣ 🇹🇭⍣ᎢᎬᎪᎷᏴᎾᎢ⅌ᎷᎫ⍣🇹🇭 " + "\n" + \
                   "╰════════╬♥"
     return helpTranslate
 #==============================================================================#
@@ -353,16 +353,16 @@ def lineBot(op):
                 if text is None:
                     return
 #==============================================================================#
-                if text.lower() == 'h1':
+                if text.lower() == 'คำสั่ง':
                     helpMessage = helpmessage()
                     gye.sendMessage(to, str(helpMessage))
                     gye.sendContact(to,)
                     gye.sendMessage(to,)
-                elif text.lower() == 'h2':
+                elif text.lower() == 'คำสั่ง2':
                     helpTextToSpeech = helptexttospeech()
                     gye.sendMessage(to, str(helpTextToSpeech))
                     gye.sendMessage(to,)
-                elif text.lower() == 'h3':
+                elif text.lower() == 'คำสั่ง3':
                     helpTranslate = helptranslate()
                     gye.sendMessage(to, str(helpTranslate))
                     gye.sendMessage(to,)
@@ -382,10 +382,10 @@ def lineBot(op):
                     runtime = timeNow - botStart
                     runtime = format_timespan(runtime)
                     gye.sendMessage(to, "login bot selama {}".format(str(runtime)))
-                elif text.lower() == 'เรา':
+                elif text.lower() == 'ผส':
                     try:
                         arr = []
-                        owner = "u104e95aaefb53cf411f77353f6a96ece"
+                        owner = "ub65037fce83ce14909759e3a932182c9"
                         creator = gye.getContact(owner)
                         contact = gye.getContact(gyeMID)
                         grouplist = gye.getGroupIdsJoined()
@@ -487,20 +487,20 @@ def lineBot(op):
                 elif text.lower() == 'pt on':
                         if settings["protect"] == True:
                             if settings["lang"] == "JP":
-                                gye.sendMessage(msg.to,"➲ เปิดป้องกันลบแล้วครับเจ้านาย")
+                                gye.sendMessage(msg.to,"➲ เปิดป้องกันเตะแล้วครับเจ้านาย")
                         else:
                             settings["protect"] = True
                             if settings["lang"] == "JP":
-                                gye.sendMessage(msg.to,"➲ เปิดป้องกันลบแล้วครับเจ้านาย")
+                                gye.sendMessage(msg.to,"➲ เปิดป้องกันเตะแล้วครับเจ้านาย")
                                 
                 elif text.lower() == 'pt off':
                         if settings["protect"] == False:
                             if settings["lang"] == "JP":
-                                gye.sendMessage(msg.to,"➲ ปิดป้องกันลบแล้วครับเจ้านาย")
+                                gye.sendMessage(msg.to,"➲ ปิดป้องกันเตะแล้วครับเจ้านาย")
                         else:
                             settings["protect"] = False
                             if settings["lang"] == "JP":
-                                gye.sendMessage(msg.to,"➲ ปิดป้องกันลบแล้วครับเจ้านาย")
+                                gye.sendMessage(msg.to,"➲ ปิดป้องกันเตะแล้วครับเจ้านาย")
 #----------------------------------------------------------------------------------------                        
                 elif text.lower() == 'qr on':
                         if settings["qrprotect"] == True:
@@ -580,7 +580,7 @@ def lineBot(op):
                             else:
                                 gye.sendMessage(msg.to,"➲ ปิดป้องกันยกเลิกค้างเชิญแล้วครับเจ้านาย")
 #-------------------------------------------------------------------------------
-                elif text.lower() == 'pro on':
+                elif text.lower() == 'เปิดหมด':
                         settings["protect"] = True
                         settings["qrprotect"] = True
                         settings["inviteprotect"] = True
@@ -596,7 +596,7 @@ def lineBot(op):
                         gye.sendMessage(msg.to,"เปิดป้องกันยกเลิกค้างเชิญ")
                         gye.sendMessage(msg.to,"➲ เปิดระบบป้องกันทั้งหมดแล้วครับเจ้านาย")
                         		            
-                elif text.lower() == 'pro off':
+                elif text.lower() == 'ปิดหมด':
              #       if msg._from in Owner:
                         settings["protect"] = False
                         settings["qrprotect"] = False
@@ -612,50 +612,50 @@ def lineBot(op):
 #-------------------------------------------------------------------------------
                 elif text.lower() == 'add on':
                     settings["autoAdd"] = True
-                    gye.sendMessage(to, "Berhasil mengaktifkan Auto Add")
+                    gye.sendMessage(to, "เปิดใช้งาน Auto Add เรียบร้อยแล้ว")
                 elif text.lower() == 'add off':
                     settings["autoAdd"] = False
-                    gye.sendMessage(to, "Berhasil menonaktifkan Auto Add")
+                    gye.sendMessage(to, "ปิดเพิ่มเพื่อนอัตโนมัติเรียบร้อยแล้ว")
                 elif text.lower() == 'join on':
              #     if msg._from in Owner:    
                     settings["autoJoin"] = True
-                    gye.sendMessage(to, "Berhasil mengaktifkan Auto Join")
+                    gye.sendMessage(to, "เปิดใช้งานการเข้าห้องอัตโนมัติเรียบร้อยแล้ว")
                 elif text.lower() == 'join off':
                 #  if msg._from in Owner:    
                     settings["autoJoin"] = False
-                    gye.sendMessage(to, "Berhasil menonaktifkan Auto Join")
+                    gye.sendMessage(to, "ปิดเข้าห้องอัตโนมัติสำเร็จ")
                 elif text.lower() == 'leave on':
                #   if msg._from in Owner:
                     settings["autoLeave"] = True
-                    gye.sendMessage(to, "Berhasil mengaktifkan Auto Leave")
+                    gye.sendMessage(to, "เปิดใช้การลาอัตโนมัติโดยอัตโนมัติ")
                 elif text.lower() == 'leave off':
              #     if msg._from in Owner:
                     settings["autoLeave"] = False
-                    gye.sendMessage(to, "Berhasil menonaktifkan Auto Leave")
+                    gye.sendMessage(to, "ปิดการทำงานอัตโนมัติสำเร็จแล้ว")
                 elif text.lower() == 'read on':
                     settings["autoRead"] = True
-                    gye.sendMessage(to, "Berhasil mengaktifkan Auto Read")
+                    gye.sendMessage(to, "เปิดใช้งานการอ่านอัตโนมัติเรียบร้อยแล้ว")
                 elif text.lower() == 'read off':
                     settings["autoRead"] = False
-                    gye.sendMessage(to, "Berhasil menonaktifkan Auto Read")
+                    gye.sendMessage(to, "ปิดอ่านอัตโนมัติเรียบร้อยแล้ว")
                 elif text.lower() == 'sticker on':
                     settings["checkSticker"] = True
-                    gye.sendMessage(to, "Berhasil mengaktifkan Check Details Sticker")
+                    gye.sendMessage(to, "เปิดใช้งานการตรวจสอบสติกเกอร์สำเร็จ")
                 elif text.lower() == 'sticker off':
                     settings["checkSticker"] = False
-                    gye.sendMessage(to, "Berhasil menonaktifkan Check Details Sticker")
+                    gye.sendMessage(to, "ปิดใช้งานการตรวจสอบสติกเกอร์สำเร็จ")
                 elif text.lower() == 'dm on':
                     settings["datectMention"] = True
-                    gye.sendMessage(to, "Berhasil mengaktifkan Detect Mention")
+                    gye.sendMessage(to, "เปิดเช็คโพสเรียบร้อยแล้ว")
                 elif text.lower() == 'dm off':
                     settings["datectMention"] = False
-                    gye.sendMessage(to, "Berhasil menonaktifkan Detect Mention")
+                    gye.sendMessage(to, "ปิดเช็คโพสเรียบร้อยแล้ว")
                 elif text.lower() == 'link on':
                     settings["autoJoinTicket"] = True
-                    gye.sendMessage(to, "Berhasil mengaktifkan Auto Join Link")
+                    gye.sendMessage(to, "เปิดใช้งานการเชื่อมโยงเข้าร่วมอัตโนมัติเรียบร้อยแล้ว")
                 elif text.lower() == 'link off':
                     settings["autoJoinTicket"] = False
-                    gye.sendMessage(to, "Berhasil menonaktifkan Auto Join Link")                    
+                    gye.sendMessage(to, "ยกเลิกการเชื่อมโยงเข้าร่วมอัตโนมัติเรียบร้อยแล้ว")                    
 #==============================================================================#
                 elif msg.text.lower() == 'บอท':
                         ais.sendContact(to, aisMID)
@@ -985,7 +985,7 @@ def lineBot(op):
                         ret_ += "\n╚══[ Total {} Groups ]".format(str(len(groups)))
                         gye.sendMessage(to, str(ret_))
 #-------------------------------------------------------------------------------
-                elif text.lower() == 'ล้างแบน':
+                elif text.lower() == 'ล้างดำ':
                         settings["blacklist"] = {}
                         gye.sendMessage(msg.to,"➲ Done")
                         ais.sendMessage(msg.to,"➲ Done")
@@ -1004,7 +1004,7 @@ def lineBot(op):
                         ki5.sendMessage(msg.to,"➲ 5  มาครับเจ้านาย")
                         gye.sendMessage(msg.to,"➲ มาครบครับเจ้านาย")
                         
-                elif text.lower() == 'แบน':
+                elif text.lower() == 'ดำ':
                         settings["wblacklist"] = True
                         gye.sendMessage(msg.to,"ลง Contact")
                         
@@ -1012,7 +1012,7 @@ def lineBot(op):
                         settings["dblacklist"] = True
                         gye.sendMessage(msg.to,"ลง Contact")
 #-------------------------------------------------------------------------------
-                elif text.lower() == 'เชคแบน':
+                elif text.lower() == 'เชคดำ':
                         if settings["blacklist"] == {}:
                             gye.sendMessage(msg.to,"Tidak Ada Banlist")
                         else:
